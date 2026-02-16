@@ -8,11 +8,6 @@ A full-stack app that combines:
 - optional MotherDuck query execution
 - background folder-based CSV ingestion with scheduled profiling
 
-This project implements workflows inspired by:
-- https://www.kdnuggets.com/7-python-eda-tricks-to-find-and-fix-data-issues
-- https://www.kdnuggets.com/building-your-modern-data-analytics-stack-with-python-parquet-and-duckdb
-- https://www.kdnuggets.com/turn-your-laptop-into-a-personal-analytics-engine-with-duckdb-and-motherduck
-
 ## Stack
 - Backend: FastAPI + Pandas + DuckDB + PyArrow
 - Frontend: React + TypeScript + Vite
